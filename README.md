@@ -17,6 +17,8 @@ This project served as both a mechanical design exercise and a performance-orien
 
 - Improve resistance to twisting on off-center strikes (increase MOI)
 
+- Reduce overall head mass to improve distance control and stroke consistency
+
 - Maintain a traditional blade aesthetic
 
 - Optimize CG positioning relative to face plane and shaft axis
