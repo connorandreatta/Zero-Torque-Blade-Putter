@@ -74,3 +74,9 @@ Potential next steps include:
 - Further CG optimization testing
 
 - Performance testing with larger sample sizes
+
+# Media
+
+![Front view of custom putter assembly](Images/Front.png)
+
+![Back view of custom putter assembly](Images/Back.png)
