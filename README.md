@@ -1,4 +1,9 @@
 # Zero-Torque-Blade-Putter
+
+![Front view of custom putter assembly](Images/Front.png)
+
+![Back view of custom putter assembly](Images/Back.png)
+
 This project is a fully custom-designed blade-style putter developed from scratch in CAD. The primary objective was to explore mass distribution, alignment geometry, and precision modeling techniques while designing a performance-focused golf club head.
 
 The design emphasizes:
@@ -74,9 +79,3 @@ Potential next steps include:
 - Further CG optimization testing
 
 - Performance testing with larger sample sizes
-
-# Media
-
-![Front view of custom putter assembly](Images/Front.png)
-
-![Back view of custom putter assembly](Images/Back.png)
